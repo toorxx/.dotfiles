@@ -13,3 +13,5 @@ alias .....="cd ../../../.."
 
 alias ls="ls -G"
 alias grep="grep --color=auto"
+
+alias ing = /Users/pol/Dropbox/IngInf/Segon/T2
