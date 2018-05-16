@@ -93,3 +93,11 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+#
+
+
+# NVIDA CUDA CONFIG
+export PATH=/Developer/NVIDIA/CUDA-9.1/bin${PATH:+:${PATH}}
+export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-9.1/lib\
+                         ${DYLD_LIBRARY_PATH:+:${DYLD_LIBRARY_PATH}}
+
