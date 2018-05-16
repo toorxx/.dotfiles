@@ -14,4 +14,5 @@ alias .....="cd ../../../.."
 alias ls="ls -G"
 alias grep="grep --color=auto"
 
-alias ing="/Users/pol/Dropbox/IngInf/Segon/T2"
+alias ing="/Users/pol/Dropbox/IngInf/Segon/T3"
+alias acm="/Users/pol/Dropbox/competitive_programming/UVA"
