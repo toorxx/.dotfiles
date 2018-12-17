@@ -1,5 +1,5 @@
 alias vim=/usr/local/Cellar/vim/8.0.1400_4/bin/vim
-alias vimdif=/usr/local/Cellar/vim/8.0.1400_4/bin/vimdiff
+alias vimdiff=/usr/local/Cellar/vim/8.0.1400_4/bin/vimdiff
 alias vi=vim
 
 #alias python='python3'
